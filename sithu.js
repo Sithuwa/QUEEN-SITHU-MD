@@ -63,9 +63,9 @@ async function QueenSew() {
         });
         DataKey.on('open', async () => {
                 console.log(SOL.LOG); console.log(SOL.PASSC);
-                if (Details.SEWRR == 'sithu') {
+                if (Details.SEWRR == 'sithuwa') {
                         console.log(SOL.PASSD)
-                } else if (Details.SEWRR !== 'sithu') {
+                } else if (Details.SEWRR !== 'sithuwa') {
                         throw new Error(SOL.PASSW); return;
                 }
             console.log(SOL.INSTCL); console.log(SOL.INSTC); console.log(SOL.INSTL);
