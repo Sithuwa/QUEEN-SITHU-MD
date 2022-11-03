@@ -1,9 +1,8 @@
-/*Sew Queen Whatsapp Bot    
+/*Queen Sithu Whatsapp Bot    
 
-Telegram: https://t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
+Facebook: https://m.facebook.com/100049977400815/
 Licensed under the  GPL-3.0 License
-Coded By Ravindu Manoj
+Coded By SITHUM KALHARA
 */
 let DataPack = require('queen-sithu-pro/export/output');
 let QueenSithu = require('queen-sithu-pro/sources/dc/handler');
